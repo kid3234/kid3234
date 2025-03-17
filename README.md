@@ -44,7 +44,7 @@
 </div>
 <hr>  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaleabbyh&theme=dark&hide_border=true)](https://github.com/kaleabbyh)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaleabbyh&theme=dark&hide_border=true)](https://github.com/kid3234)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikireab-m&theme=dark&hide_border=true&show_icons=true) -->
 
